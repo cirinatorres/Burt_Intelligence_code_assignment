@@ -1,0 +1,28 @@
+2
+a b
+a = 10 b
+10
+a b c d e f g h i j
+a = 2 b
+b = 2 c
+c = 2 d
+d = 2 e
+e = 2 f
+f = 2 g
+g = 2 h
+h = 2 i
+i = 2 j
+3
+a b c
+a = 4 c
+b = 2 c
+3
+m mm km
+km = 1000000 mm
+m = 1000 mm
+4
+m mm km cm
+m = 1000 mm
+cm = 10 mm
+km = 1000000 mm
+0
