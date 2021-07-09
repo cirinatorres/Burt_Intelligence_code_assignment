@@ -1,4 +1,4 @@
-# Daniel Torres Cirina
+# Daniel Torres
 import sys
 from copy import deepcopy
 
